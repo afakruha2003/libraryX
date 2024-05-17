@@ -1,4 +1,4 @@
-# libraryX
+# LibraryX
 
 # Overview:
 This Library Management System is a console-based application designed to manage the operations of a library, including the management of library resources (books, DVDs, and magazines) and users (faculty members and public members). The system allows users to borrow, return, and view details of library resources, and provides authentication for users.
